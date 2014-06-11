@@ -1,0 +1,8 @@
+[R0001],cereal & bread_integral & juice,milk_tb,[0.167000,0.000000,0.667000,0.166000,0]
+[R0002],cereal & bread_integral & jelly,milk_tb,[0.167000,0.000000,0.667000,0.166000,0]
+[R0003],cereal & juice & jelly,milk_tb,[0.167000,0.000000,0.667000,0.166000,0]
+[R0004],bread_integral & juice & jelly,milk_tb,[0.167000,0.000000,0.667000,0.166000,0]
+[R0005],cereal & milk_tb & juice,bread_integral,[0.167000,0.000000,0.833000,0.000000,0]
+[R0006],cereal & milk_tb & jelly,bread_integral,[0.167000,0.000000,0.833000,0.000000,0]
+[R0007],cereal & juice & jelly,bread_integral,[0.167000,0.000000,0.833000,0.000000,0]
+[R0008],milk_tb & juice & jelly,bread_integral,[0.167000,0.000000,0.833000,0.000000,0]

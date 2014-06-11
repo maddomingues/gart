@@ -1,0 +1,8 @@
+milk_tb <- cereal bread_integral juice  (16.7%, 100.0%, 66.7%)
+milk_tb <- cereal bread_integral jelly  (16.7%, 100.0%, 66.7%)
+milk_tb <- cereal juice jelly  (16.7%, 100.0%, 66.7%)
+milk_tb <- bread_integral juice jelly  (16.7%, 100.0%, 66.7%)
+bread_integral <- cereal milk_tb juice  (16.7%, 100.0%, 83.3%)
+bread_integral <- cereal milk_tb jelly  (16.7%, 100.0%, 83.3%)
+bread_integral <- cereal juice jelly  (16.7%, 100.0%, 83.3%)
+bread_integral <- milk_tb juice jelly  (16.7%, 100.0%, 83.3%)
